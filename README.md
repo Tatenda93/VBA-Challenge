@@ -1,7 +1,7 @@
 # VBA-Challenge
 VBA assignment
 
-This scipt analyzes quartely stock data loping through all stocks and calclating metrics for each quarter outputing the following:
+This script analyzes quartely stock data looping through all stocks and calculating metrics for each quarter outputing the following:
 	The Ticker symbol
  	The quarterly change 
 	Percentage Chane
